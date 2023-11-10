@@ -1,0 +1,13 @@
+.square {
+    width: 10px;
+    height: 10px;
+    border: 1px inset rgb(255, 0, 166);
+}
+
+.mine {
+    background-color: aqua;
+}
+
+.opened {
+    background-color: rgb(34, 255, 0);
+}
